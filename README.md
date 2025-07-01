@@ -56,7 +56,7 @@ Honeycomb is a desktop application for managing honey inventory and sales, featu
 
 ## Authors
 
-- [Kazi Sajid Islam]
+- Kazi Sajid Islam
 
 ---
 
