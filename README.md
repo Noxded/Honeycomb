@@ -20,7 +20,7 @@ Honeycomb is a desktop application for managing honey inventory and sales, featu
 1. Open a terminal in the project directory.
 2. Compile the Java files:
    ```
-   javac *.java Entities/*.java
+   javac Entities/Account.java Frame.java RegisterFrame.java Homepage.java Start.java
    ```
 3. Run the application:
    ```
