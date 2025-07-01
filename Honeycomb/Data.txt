@@ -1,0 +1,6 @@
+
+nishad	1234	admin
+abid	1234	customer
+sajid	sajid	customer
+nox	12	admin
+1	1	customer

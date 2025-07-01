@@ -1,0 +1,45 @@
+
+
+2025-06-23 01:51:52 - ADMIN (nishad): Added new honey type 'shorisha' with price $10.00
+2025-06-23 01:52:01 - ADMIN (nishad): Added 30 units to shorisha (Total: 30)
+2025-06-23 01:52:11 - ADMIN (nishad): Added new honey type 'flora' with price $20.00
+2025-06-23 01:52:18 - ADMIN (nishad): Added 50 units to flora (Total: 50)
+2025-06-23 01:53:14 - ADMIN (nishad): Set flora quantity to 10 units
+2025-06-23 01:53:21 - ADMIN (nishad): Set flora quantity to 30 units
+2025-06-23 01:55:38 - CUSTOMER (abid): Purchased 10 units of shorisha for $100.00 (Remaining: 20)
+2025-06-23 09:53:28 - ADMIN (nishad): Added new honey type 'kalo jira' with price $15.00
+2025-06-23 09:53:43 - ADMIN (nishad): Added 30 units to kalo jira (Total: 30)
+2025-06-23 09:55:21 - CUSTOMER (abid): Purchased 10 units of kalo jira for $150.00 (Remaining: 20)
+2025-06-23 09:55:43 - CUSTOMER (abid): Purchased 14 units of kalo jira for $210.00 (Remaining: 6)
+2025-06-23 09:56:13 - CUSTOMER (abid): Purchased 6 units of kalo jira for $90.00 (Remaining: 0)
+2025-06-23 10:07:16 - ADMIN (nishad): Added 50 units to kalo jira (Total: 50)
+2025-06-23 10:08:10 - ADMIN (nishad): Added new honey type 'eternity' with price $123.00
+2025-06-23 10:08:19 - ADMIN (nishad): Added 50 units to eternity (Total: 50)
+2025-06-23 10:09:37 - ADMIN (nishad): Added 60 units to shorisha (Total: 80)
+2025-06-23 10:10:20 - CUSTOMER (abid): Purchased 10 units of kalo jira for $150.00 (Remaining: 40)
+2025-06-23 11:09:39 - ADMIN (nishad): Added new honey type 'ghorer bazar' with price $20.00
+2025-06-23 11:10:00 - ADMIN (nishad): Added 10 units to ghorer bazar (Total: 10)
+2025-06-23 11:10:16 - ADMIN (nishad): Added new honey type 'abc' with price $5.00
+2025-06-23 11:10:29 - ADMIN (nishad): Added new honey type 'ex' with price $5.00
+2025-06-23 11:11:10 - ADMIN (nishad): Added 30 units to ex (Total: 30)
+2025-06-24 18:45:22 - CUSTOMER (abid): Purchased 10 units of eternity for $1230.00 (Remaining: 40)
+2025-06-24 18:50:47 - ADMIN (nishad): Added 46 units to ex (Total: 76)
+2025-06-24 18:51:06 - ADMIN (nishad): Added 31862 units to ex (Total: 31938)
+2025-06-24 18:51:23 - ADMIN (nishad): Added new honey type 'flower' with price $50.00
+2025-06-24 18:51:38 - ADMIN (nishad): Added 50 units to flower (Total: 50)
+2025-06-24 18:52:33 - CUSTOMER (abid): Purchased 10 units of ghorer bazar for $200.00 (Remaining: 0)
+2025-06-24 18:58:05 - ADMIN (nishad): Deleted honey type 'eternity'
+2025-06-24 20:27:13 - ADMIN (nishad): Added new honey type 'irfcifcbvri' with price $46.00
+2025-06-24 20:28:08 - ADMIN (nishad): Added 465 units to abc (Total: 465)
+2025-06-24 20:28:18 - ADMIN (nishad): Set abc quantity to 4857 units
+2025-06-24 20:28:29 - ADMIN (nishad): Deleted honey type 'kalo jira'
+2025-06-24 20:29:22 - CUSTOMER (abid): Purchased 5 units of flower for $250.00 (Remaining: 45)
+2025-06-24 22:28:54 - CUSTOMER (abid): Purchased 1 units of abc for $5.00 (Remaining: 4856)
+2025-06-24 22:31:55 - ADMIN (nishad): Added new honey type 'uhuieg' with price $3756738.00
+2025-06-24 22:32:03 - ADMIN (nishad): Deleted honey type 'ghorer bazar'
+2025-06-24 22:32:13 - ADMIN (nishad): Deleted honey type 'flora'
+2025-06-25 00:26:55 - CUSTOMER (sajid): Purchased 1 units of ex for $5.00 (Remaining: 31937)
+2025-06-25 01:06:12 - ADMIN (nox): Deleted honey type 'ex'
+2025-06-25 01:06:18 - ADMIN (nox): Deleted honey type 'abc'
+2025-06-25 01:06:20 - ADMIN (nox): Set irfcifcbvri quantity to 11 units
+2025-06-25 01:08:16 - CUSTOMER (1): Purchased 11 units of shorisha for $110.00 (Remaining: 69)
